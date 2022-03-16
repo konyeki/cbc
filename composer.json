@@ -1,0 +1,16 @@
+{
+    "name": "konye/konyesch",
+    "description": "\"This project is to learn git commands as well as the MVC pattern\"",
+    "autoload": {
+        "psr-4": {
+            "Konye\\Konyesch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "konyeki",
+            "email": "konye.evans@yahoo.com"
+        }
+    ],
+    "require": {}
+}
